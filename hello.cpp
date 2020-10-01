@@ -3,8 +3,9 @@ using namespace std;
 int main(){
 
 cout<<"Hello World!"<<endl;
-cout<<"Why do you create problems for another animals"<<endl;
-cout<<"Why ds"<<endl;
+cout<<"Hello india"<<endl;
+cout<<"hello everyone"<<endl;
+cout<<"how are doing"<<end1;
 
     return 0;
 }
